@@ -1,0 +1,6 @@
+ - The http.createServer() method includes request and response parameters which is supplied by nodejs.
+
+ - The request object can be used to get information about current/incoming HTTP request. 
+ e.g: url , request headers, data
+
+ - The response object can be used to send a response for a current HTTP request.
